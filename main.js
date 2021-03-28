@@ -1,0 +1,13 @@
+console.log("helo helo heloooooooooooooooooo!");
+var first_name="ginny";
+var lst_name="weasly";
+var full_name=first_name.concat(lst_name);
+console.log(first_name);
+console.log(lst_name);
+console.log(full_name);
+var Sst_no=564;
+var lst_no=798;
+console.log(lst_no+Sst_no);
+console.log(lst_no-Sst_no);
+console.log(lst_no*Sst_no);
+console.log(lst_no/Sst_no);
